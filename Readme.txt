@@ -1,3 +1,9 @@
-To reproduce the results, load the model3.h5 using the code given in final.ipynb. Also initialise the appropriate classes namely Fusion and loss_fn along with all the imports(code given in the file itself)
+Continiuous Sign Language Recognition Project using video annotations
 
-The data used is present in folders provided and the final train, val and test cvs are also present.
+Contains 3 different architecture (in final.ipynb):
+
+1. 3D-CNN model
+2. CNN+LSTM model
+3. Fusion model 
+
+Note: the video dataset has not been uploaded as its size too large
